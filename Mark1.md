@@ -27,3 +27,14 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 [Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
 
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Your Friendly Neighborhood Spider-Man</h1>
+<div>
+<h4>Who</h4>
+<p>Spider-Man is a teenage boy by the name of Peter Parker.
+He was given superhuman capabilities after being bitten by a <em>radioactive</em> spider.</p>
+</div>
+</body>
+</html>
