@@ -2,7 +2,7 @@
 
 #### Who:
 Spider-Man is a teenage boy by the name of Peter Parker.
-He was given superhuman capabilities after being bitten by a radioactive spider.
+He was given superhuman capabilities after being bitten by a **radioactive** spider.
 
 #### Childhood:
 Peter lost both of his parents due to a plane crash at a young age.
@@ -20,7 +20,7 @@ Below is a list of Spider-Man's abilities:
 * Wallcrawling
 * "Spider-Sense" alert
 
-This information was obtained through [this website](https://www.marvel.com/characters/spider-man-peter-parker/in-comics)
+This information was obtained through [*this website*](https://www.marvel.com/characters/spider-man-peter-parker/in-comics)
 
 ![Spider-Man](https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile.jpg)
 ![Spider-Man slinging on a web][Spider-Man]
