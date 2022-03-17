@@ -27,6 +27,9 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 [Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
 
+#### Below is a code block for part of the page created above:
+
+<!---
 <!DOCTYPE html>
 <html>
 <body>
@@ -38,3 +41,4 @@ He was given superhuman capabilities after being bitten by a <em>radioactive</em
 </div>
 </body>
 </html>
+--->
