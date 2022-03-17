@@ -19,7 +19,7 @@ Spider-Man's abilities include:
   *Wallcrawling
   *"Spider-Sense" alert
 
-![Spider-Man](https://en.wikipedia.org/wiki/Spider-Man#/media/File:Web_of_Spider-Man_Vol_1_129-1.png)
+![Spider-Man](https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile.jpg)
 ![Spider-Man slinging][Spider-Man]
 
 [Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
