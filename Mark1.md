@@ -22,5 +22,5 @@ Spider-Man's abilities include:
 ![Spider-Man](https://en.wikipedia.org/wiki/Spider-Man#/media/File:Web_of_Spider-Man_Vol_1_129-1.png)
 ![Spider-Man slinging][Spider-Man]
 
-[Spider-Man]: https://raw.githubusercontent.com/NoahMarchbanks/IT1000MidtermProject/main/Images/spidermanpeterparker616.jpg?token=GHSAT0AAAAAABSR4MGQZI36QHJ4NU63YE5IYRSQGSA
+[Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
 
