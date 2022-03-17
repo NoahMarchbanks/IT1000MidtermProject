@@ -27,8 +27,6 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 [Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
 
-
-
 #### The below portion is written in raw html rather than Markdown:
 <!DOCTYPE html>
 <html>
