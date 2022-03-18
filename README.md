@@ -1,6 +1,16 @@
-# IT1000MidtermProject
+# Home
 
 #### Welcome to my Midterm Project for IT 1000
 
-This project displays an *excellent* understanding of IT related concepts
+This project displays an **excellent** understanding of IT related concepts
 by Noah Marchbanks.
+
+[Page 1](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
+
+[Page 2](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
+
+[Page 3]()
+
+[Page 4]()
+
+[Page 5]()

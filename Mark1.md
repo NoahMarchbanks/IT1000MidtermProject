@@ -1,4 +1,4 @@
-# Your Friendly Neighborhood Spider-Man
+# Page 1: Your Friendly Neighborhood Spider-Man
 
 #### Who:
 Spider-Man is a teenage boy by the name of Peter Parker.
@@ -29,6 +29,7 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 #### Below are links to the websites with the images:
 [Image one](https://www.writeups.org/spider-man-marvel-comics-peter-parker/)
+
 [Image two](https://cmro.travis-starnes.com/character_details.php?character=61)
 
 #### The below portion is written in raw html rather than Markdown:
@@ -43,3 +44,15 @@ function rotate() {
 </script>
 </head>
 </html>
+
+[Next](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
+
+[Page 2](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
+
+[Page 3]()
+
+[Page 4]()
+
+[Page 5]()
+
+[Home](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/README.md)

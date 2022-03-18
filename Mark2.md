@@ -1,4 +1,4 @@
-# Batman
+# Page 2: Batman
 
 #### Who:
 Batman is a man by the name of Bruce Wayne.
@@ -33,7 +33,23 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 #### Below are links to the websites with the images:
 [Image one](https://en.wikipedia.org/wiki/Batman)
+
 [Image two](https://en-nz.eaglemoss.com/hero-collector/dc-comics/dc-comics-graphic-novel-collection)
 
 #### The below portion is written in raw html rather than Markdown:
 
+
+
+[Back](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
+
+[Next]()
+
+[Page 1](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
+
+[Page 3]()
+
+[Page 4]()
+
+[Page 5]()
+
+[Home](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/README.md)
