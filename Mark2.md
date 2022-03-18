@@ -31,5 +31,9 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 [Batman]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/BatmanStaring.jpg
 
+#### Below are links to the websites with the images:
+[Image one](https://en.wikipedia.org/wiki/Batman)
+[Image two](https://en-nz.eaglemoss.com/hero-collector/dc-comics/dc-comics-graphic-novel-collection)
+
 #### The below portion is written in raw html rather than Markdown:
 
