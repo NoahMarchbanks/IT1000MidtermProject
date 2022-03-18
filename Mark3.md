@@ -3,7 +3,8 @@
 #### Who:
 The Flash is a man by the name of Barry Allen.
 He was given his powers by a lightning bolt that struck him while he was
-running back and forth in his laboratory. 
+running back and forth in his laboratory. Later, it was revealed that
+the very lighting strike that struck Barry, was *himself*.
 
 #### Childhood:
 Barry's mother was killed when he was a child. His father was framed 
@@ -20,7 +21,7 @@ scene of the murder, took Barry in and raised him.
 * Molecular acceleration
 * Reality alteration
 
-This information was obtaiend through [*this website*](https://en.wikipedia.org/wiki/Flash_(Barry_Allen))
+This information was obtained through [*this website*](https://en.wikipedia.org/wiki/Flash_(Barry_Allen))
 
 ![The Flash](https://www.dccomics.com/sites/default/files/Char_Gallery_Flash_758_6055049612af35.61135649.jpg)
 ![The Flash][The Flash]
