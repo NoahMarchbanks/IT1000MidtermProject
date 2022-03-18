@@ -47,7 +47,7 @@ function rotate() {
 
 [Next/]()
 [Page 2(Batman)/]()
-[Page 3/]()
+[Page 3(The Flash)/]()
 [Page 4/]()
 [Page 5/]()
 [Home]()

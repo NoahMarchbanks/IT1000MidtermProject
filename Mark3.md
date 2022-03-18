@@ -40,8 +40,8 @@ This information was obtaiend through [*this website*](https://en.wikipedia.org/
 [Back/]()
 [Next/]()
 
-[Page 1/]()
-[Page 2/]()
+[Page 1(Spider-Man)/]()
+[Page 2(Batman)/]()
 [Page 4/]()
 [Page 5/]()
 [Home]()

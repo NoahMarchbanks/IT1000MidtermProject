@@ -7,8 +7,8 @@ by Noah Marchbanks.
 
 ## Table of Contents:
 
-[Page 1(Spider-Man)/](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
-[Page 2(Batman)/](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
-[Page 3/]()
+[Page 1(Spider-Man)/]()
+[Page 2(Batman)/]()
+[Page 3(The Flash)/]()
 [Page 4/]()
 [Page 5]()

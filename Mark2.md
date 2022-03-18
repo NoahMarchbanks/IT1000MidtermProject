@@ -44,7 +44,7 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 [Next/]()
 
 [Page 1(Spider-Man)/]()
-[Page 3/]()
+[Page 3(The Flash)/]()
 [Page 4/]()
 [Page 5/]()
 [Home]()
