@@ -30,10 +30,12 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 #### The below portion is written in raw html rather than Markdown:
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Why do people like him?</h1>
-<p>Spider-Man is a very lovable superhero because of his relatability. Many people
-can relate to him because when he's not wearing the mask, he still lives a very normal
-life and faces real world problems such as having a job and having to pay rent.</p>
-</body>
+<head>
+<script>
+
+function rotate() {
+        var display 
+
+</script>
+</head>
 </html>
