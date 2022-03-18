@@ -46,13 +46,8 @@ function rotate() {
 </html>
 
 [Next](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
-
 [Page 2](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark2.md)
-
 [Page 3]()
-
 [Page 4]()
-
 [Page 5]()
-
 [Home](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/README.md)
