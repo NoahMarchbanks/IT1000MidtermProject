@@ -40,10 +40,10 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 
 
-[Back](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
-[Next]()
-[Page 1](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
-[Page 3]()
-[Page 4]()
-[Page 5]()
+[Back/](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
+[Next/]()
+[Page 1(Spider-Man)/](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Mark1.md)
+[Page 3/]()
+[Page 4/]()
+[Page 5/]()
 [Home](https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/README.md)
