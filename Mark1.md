@@ -27,6 +27,10 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 [Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
 
+#### Below are links to the websites with the images:
+[Image one](https://www.writeups.org/spider-man-marvel-comics-peter-parker/)
+[Image two](https://cmro.travis-starnes.com/character_details.php?character=61)
+
 #### The below portion is written in raw html rather than Markdown:
 <!DOCTYPE html>
 <html>
