@@ -32,7 +32,7 @@ This information was obtained through [*this website*](https://bookriot.com/supe
 
 [Image two](https://www.dccomics.com/blog/2021/07/29/step-onto-the-streets-of-metropolis-with-lois-clark-in-superman-78)
 
-#### The below portion is written in raw html rather than Markdown:
+#### The below portion is a code block written in JavaScript:
 ```
 function subtract(a,b) {
         return a - b;

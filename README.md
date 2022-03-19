@@ -1,8 +1,10 @@
 # Home
 
-#### Welcome to my Midterm Project for IT 1000
+## Welcome to my Midterm Project for IT 1000
 
-This project will cover **5** different superheros and some information about them.
+#### Purpose:
+This project will cover **5** different superheros and some information
+about them to show my *proficiency* in HTML, Markdown, and JavaScript.
 
 #### Information provided:
 * Who

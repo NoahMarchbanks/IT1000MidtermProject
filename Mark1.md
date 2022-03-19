@@ -32,7 +32,7 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 [Image two](https://cmro.travis-starnes.com/character_details.php?character=61)
 
-#### The below portion is written in raw html rather than Markdown:
+#### The below portion is a code block written in JavaScript:
 ```
 function 5stars() {
         var rating;
