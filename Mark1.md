@@ -45,10 +45,10 @@ function rotate() {
 </head>
 </html>
 
-[Next]()
+[Next](Mark2.md)
 
-[Page 2(Batman)]() | 
-[Page 3(The Flash)]() | 
-[Page 4(Superman)]() | 
-[Page 5(Iron Man)]() | 
-[Home]()
+[Page 2(Batman)](Mark2.md) | 
+[Page 3(The Flash)](Mark3.md) | 
+[Page 4(Superman)](Mark4.md) | 
+[Page 5(Iron Man)](Mark5.md) | 
+[Home](README.md)

@@ -38,11 +38,11 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 
 
-[Back]() | 
-[Next]()
+[Back](Mark2.md) | 
+[Next](Mark4.md)
 
-[Page 1(Spider-Man)]() | 
-[Page 2(Batman)]() | 
-[Page 4(Superman)]() | 
-[Page 5(Iron Man)]() | 
-[Home]()
+[Page 1(Spider-Man)](Mark1.md) | 
+[Page 2(Batman)](Mark2.md) | 
+[Page 4(Superman)](Mark4.md) | 
+[Page 5(Iron Man)](Mark5.md) | 
+[Home](README.md)

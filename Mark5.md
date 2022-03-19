@@ -36,11 +36,10 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 
 
-[Back]() | 
-[Next]()
+[Back](Mark4.md) |
 
-[Page 1(Spider-Man)]() | 
-[Page 2(Batman)]() | 
-[Page 3(The Flash)]() | 
-[Page 4(Superman)]() | 
-[Home]()
+[Page 1(Spider-Man)](Mark1.md) | 
+[Page 2(Batman)](Mark2.md) | 
+[Page 3(The Flash)](Mark3.md) | 
+[Page 4(Superman)](Mark4.md) | 
+[Home](README.md)
