@@ -10,5 +10,5 @@ by Noah Marchbanks.
 [Page 1(Spider-Man)/]()
 [Page 2(Batman)/]()
 [Page 3(The Flash)/]()
-[Page 4/]()
+[Page 4(Superman)/]()
 [Page 5]()

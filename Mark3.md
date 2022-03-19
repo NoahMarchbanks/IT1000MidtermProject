@@ -24,9 +24,9 @@ scene of the murder, took Barry in and raised him.
 This information was obtained through [*this website*](https://en.wikipedia.org/wiki/Flash_(Barry_Allen))
 
 ![The Flash](https://www.dccomics.com/sites/default/files/Char_Gallery_Flash_758_6055049612af35.61135649.jpg)
-![The Flash][The Flash]
+![The Flash running][The Flash]
 
-[The Flash]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/TheFlashRunning.jpg
+[The Flash]: 
 
 #### Below are links to the websites with the images:
 [Image one](https://www.dccomics.com/characters/the-flash)
@@ -43,6 +43,6 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 [Page 1(Spider-Man)/]()
 [Page 2(Batman)/]()
-[Page 4/]()
+[Page 4(Superman)/]()
 [Page 5/]()
 [Home]()

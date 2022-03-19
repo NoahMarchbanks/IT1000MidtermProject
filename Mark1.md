@@ -25,7 +25,7 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 ![Spider-Man](https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile.jpg)
 ![Spider-Man slinging on a web][Spider-Man]
 
-[Spider-Man]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/spidermanpeterparker616.jpg
+[Spider-Man]: 
 
 #### Below are links to the websites with the images:
 [Image one](https://www.writeups.org/spider-man-marvel-comics-peter-parker/)
@@ -48,6 +48,6 @@ function rotate() {
 [Next/]()
 [Page 2(Batman)/]()
 [Page 3(The Flash)/]()
-[Page 4/]()
+[Page 4(Superman)/]()
 [Page 5/]()
 [Home]()

@@ -29,7 +29,7 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 ![Batman](https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20200502132734)
 ![Batman staring at you][Batman]
 
-[Batman]: https://github.com/NoahMarchbanks/IT1000MidtermProject/blob/main/Images/BatmanStaring.jpg
+[Batman]: 
 
 #### Below are links to the websites with the images:
 [Image one](https://en.wikipedia.org/wiki/Batman)
@@ -45,6 +45,6 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 [Page 1(Spider-Man)/]()
 [Page 3(The Flash)/]()
-[Page 4/]()
+[Page 4(Superman)/]()
 [Page 5/]()
 [Home]()
