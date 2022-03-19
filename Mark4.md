@@ -1,7 +1,7 @@
 # Page 4: Superman
 
 #### Who:
-Superman is a man by the name of Clark Kent. He is an alien from Krypton.
+Superman is a man by the name of Clark Kent. He is an **alien** from Krypton.
 
 #### Childhood:
 Superman was sent to Earth in a pod when he was a child by his parents during the 
@@ -37,10 +37,10 @@ This information was obtained through [*this website*](https://bookriot.com/supe
 
 
 [Back/]()
-[Next/]()
+[Next]()
 
 [Page 1(Spider-Man)/]()
 [Page 2(Batman)/]()
-[Page 4(Superman)/]()
-[Page 5/]()
+[Page 3(The Flash)/]()
+[Page 5(Iron-Man)/]()
 [Home]()

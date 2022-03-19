@@ -41,10 +41,10 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 
 
 [Back/]()
-[Next/]()
+[Next]()
 
 [Page 1(Spider-Man)/]()
 [Page 3(The Flash)/]()
 [Page 4(Superman)/]()
-[Page 5/]()
+[Page 5(Iron-Man)/]()
 [Home]()
