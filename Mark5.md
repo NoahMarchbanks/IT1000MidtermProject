@@ -33,8 +33,11 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 [Image two](https://www.writeups.org/iron-man-armor-golden-avenger-mk5-marvel-comics/)
 
 #### The below portion is written in raw html rather than Markdown:
-
-
+```
+function division(a,b) {
+        return a / b;
+    }
+```
 
 [Back](Mark4.md) |
 

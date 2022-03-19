@@ -34,19 +34,12 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 
 #### The below portion is written in raw html rather than Markdown:
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<script>
-
-function rotate() {
+function 5stars() {
         var rating;
-        for (i = 0; i < 5; i++){
-                
-
-</script>
-</head>
-</html>
+        var i;
+        for (i = 0; i <= 5; i++){
+                rating++;
+        }
 ```
 
 [Next](Mark2.md)

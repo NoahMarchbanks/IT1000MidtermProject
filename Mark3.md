@@ -34,9 +34,11 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 [Image two](https://www.pinterest.com/pin/116601077823221897/)
 
 #### The below portion is written in raw html rather than Markdown:
-
-
-
+```
+function add(a,b) {
+        return a + b;
+    }
+```
 
 [Back](Mark2.md) | 
 [Next](Mark4.md)

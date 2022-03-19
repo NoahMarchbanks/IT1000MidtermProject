@@ -37,8 +37,11 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 [Image two](https://en-nz.eaglemoss.com/hero-collector/dc-comics/dc-comics-graphic-novel-collection)
 
 #### The below portion is written in raw html rather than Markdown:
-
-
+```
+function multiply(a,b) {
+        return a * b;
+    }
+```
 
 [Back](Mark1.md) | 
 [Next](Mark3.md) 
