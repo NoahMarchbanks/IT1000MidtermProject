@@ -29,7 +29,7 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 ![Batman](https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20200502132734)
 ![Batman staring at you][Batman]
 
-[Batman]: 
+[Batman]: Images/BatmanStaring.jpg
 
 #### Below are links to the websites with the images:
 [Image one](https://en.wikipedia.org/wiki/Batman)

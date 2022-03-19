@@ -26,7 +26,7 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 ![The Flash](https://www.dccomics.com/sites/default/files/Char_Gallery_Flash_758_6055049612af35.61135649.jpg)
 ![The Flash running][The Flash]
 
-[The Flash]: 
+[The Flash]: Images/TheFlashRunning.jpg
 
 #### Below are links to the websites with the images:
 [Image one](https://www.dccomics.com/characters/the-flash)

@@ -25,7 +25,7 @@ This information was obtained through [*this website*](https://bookriot.com/supe
 ![Superman](https://www.denofgeek.com/wp-content/uploads/2019/01/superman_dc_blizzard.jpeg?resize=768%2C432)
 ![Superman flying][Superman]
 
-[Superman]: 
+[Superman]: Images/SupermanFlying.jpg
 
 #### Below are links to the websites with the images:
 [Image one](https://www.denofgeek.com/games/blizzard-convince-dc-superman-kicks-people/)

@@ -25,7 +25,7 @@ This information was obtained through [*this website*](https://en.wikipedia.org/
 ![Iron Man](https://static.wikia.nocookie.net/marveldatabase/images/4/4d/Iron_Man_Armor_Model_37_from_Fear_Itself_Vol_1_1_cover.jpg/revision/latest/scale-to-width-down/324?cb=20201009051947)
 ![Iron Man flying][Iron Man]
 
-[Iron Man]: 
+[Iron Man]: Images/IronManFlying.jpg
 
 #### Below are links to the websites with the images:
 [Image one](https://marvel.fandom.com/wiki/Iron_Man_Armor_Model_37)

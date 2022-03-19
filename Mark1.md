@@ -25,7 +25,7 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 ![Spider-Man](https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile.jpg)
 ![Spider-Man slinging on a web][Spider-Man]
 
-[Spider-Man]: 
+[Spider-Man]: Images/spidermanpeterparker616.jpg
 
 #### Below are links to the websites with the images:
 [Image one](https://www.writeups.org/spider-man-marvel-comics-peter-parker/)
@@ -33,17 +33,21 @@ This information was obtained through [*this website*](https://www.marvel.com/ch
 [Image two](https://cmro.travis-starnes.com/character_details.php?character=61)
 
 #### The below portion is written in raw html rather than Markdown:
+```
 <!DOCTYPE html>
 <html>
 <head>
 <script>
 
 function rotate() {
-        var display
+        var rating;
+        for (i = 0; i < 5; i++){
+                
 
 </script>
 </head>
 </html>
+```
 
 [Next](Mark2.md)
 
