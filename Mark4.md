@@ -42,5 +42,5 @@ This information was obtained through [*this website*](https://bookriot.com/supe
 [Page 1(Spider-Man)]() | 
 [Page 2(Batman)]() | 
 [Page 3(The Flash)]() | 
-[Page 5(Iron-Man)]() | 
+[Page 5(Iron Man)]() | 
 [Home]()
