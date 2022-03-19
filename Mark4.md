@@ -1,12 +1,13 @@
 # Page 4: Superman
 
 #### Who:
-Superman is a man by the name of Clark Kent. He is an **alien** from Krypton.
+Superman is a man by the name of Clark Kent. He is an **alien** from 
+Krypton.
 
 #### Childhood:
 Superman was sent to Earth in a pod when he was a child by his parents during the 
 destruction of his planet. He was found by Jonathan and Martha Kent who then adopted
-him. He was taught to suppress his powers by his new parents to protect him from 
+him. He was taught to *suppress* his powers by his new parents to protect him from 
 suspicion. This led to the death of his adoptive father, Jonathan, who prevented 
 Clark from using his powers to save him.
 

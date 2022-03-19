@@ -3,7 +3,7 @@
 #### Who:
 Batman is a man by the name of Bruce Wayne.
 Batman is different from most superheroes because, although he has
-incredible strength and durability, he does **not** actually have any 
+*incredible* strength and durability, he does **not** actually have any 
 superpowers.
 
 #### Childhood:

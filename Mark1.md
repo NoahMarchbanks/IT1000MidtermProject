@@ -5,7 +5,7 @@ Spider-Man is a teenage boy by the name of Peter Parker.
 He was given superhuman capabilities after being bitten by a **radioactive** spider.
 
 #### Childhood:
-Peter lost both of his parents due to a plane crash at a young age.
+Peter lost *both* of his parents due to a plane crash at a young age.
 
 This led to him being raised by his aunt and uncle.
 
